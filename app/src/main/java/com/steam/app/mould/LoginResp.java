@@ -1,0 +1,12 @@
+package com.steam.app.mould;
+
+/**
+ * File: RegisterReq.java
+ * <p>
+ * Author: zshp
+ * <p>
+ * Create: 2019/3/12 10:26 PM
+ */
+public class LoginResp extends BaseBean {
+    public String token;
+}
